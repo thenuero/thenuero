@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... Backend development and networking stuff.
 - 🌱 I’m currently learning ... More on reactive programming and machine learning.
-![](https://komarev.com/ghpvc/?username=thenuero&color=red)
+- ![](https://komarev.com/ghpvc/?username=thenuero&color=red)
