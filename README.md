@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ... Backend development and networking stuff.
+- 🌱 I’m currently learning ... More on reactive programming and machine learning.
+![](https://komarev.com/ghpvc/?username=thenuero&color=red)
